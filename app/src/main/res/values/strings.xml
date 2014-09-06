@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainButton">1</string>
+    <string name="secondaryButton">2</string>>
+    <string name="buttonThree">3</string>
+    <string name="myTextView">Text</string>
+
+</resources>
